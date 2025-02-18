@@ -2,8 +2,8 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 20%
-    right: 10%
+    top: 40%
+    right: 50%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
@@ -17,17 +17,251 @@
 
   100%
     transform: translateY(0px)
+
+// titulos y subtitulos
+
+.subt
+  img
+    width: 50px
+  h3
+    color: black
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span 
+  color: black
+
+.titulo-segundo:after 
+  content: ''
+  display: block
+  height: 4.5px
+  width: 140px
+  border-left: solid 50px
+  border-left-color: #6E3DC6
+  background-color: #e8e8e8
+
+.banner-interno__fondo    
+  background-image: url("../assets/curso/portada/portada_interna.png") !important
+  justify-content: space-around
+  background-repeat: no-repeat
+  background-position: cover
+
+//subrayar item en lista
+
+.surrayar
+  border-top: solid 3px
+  border-top-color:  #e8e8e8
+
+// fondos, tamaños imagenes y bordes
+
+.img65
+  width: 65px  !important
+
+.img90
+  width: 90px  !important
+
+.img95
+  width: 95px  !important
+
+.img95
+  width: 100px  !important
+
+.img250
+  width: 250px !important
+
+.img200
+  width: 200px !important
+
+.img120
+  with: 120px !important
+
+.img100menos
+  with: -100px !important
+
+.bggristabla
+  background-color: #F6F6F6
+
+.bggristabla2
+  background-color: #E8E8E8
+
+.bgazulclaro
+  background-color: #75BAF1
+
+.bgrosado
+  background-color: #E2D8F4
+
+.bgrosado2
+  background-color: #E9E2F7
+
+.bgmoradoclaro
+  background-color: #CCBBEB
+
+.bgblanco
+  background-color: white
+
+.bgmoradomedio
+  background-color: #BE79CA
+
+.bgmorado100
+  background-color: #6E3DC6
+
+.borde-redondo
+  border-radius: 20px
+
+.borde-redondo-abajo
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+.borde-redondo-izquierdo
+  border-top-left-radius: 20px
+  border-bottom-left-radius: 20px
+
+.borde-redondo-derecho
+  border-top-right-radius: 20px
+  border-bottom-right-radius: 20px
+
+.borde-redondo-arriba
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.bgfondotema1
+  background: url('../assets/curso/temas/tema1/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+// parametrización tabla tema 1
+
+.tabla-a 
+  th 
+    border-color: #75BAF1 !important
+
+// acordion tema 1
+
+.acordion__accion__btn--a
+  background-color: #BE79CA
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+
+.acordion .tarjeta--azul
+  background-color: #6E3DC6
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #F2E4F5
+  h3
+    color: black
+.acordion__titulo
+  h3
+    color: #fff
+
+// slyder tema 1
+
+.tarjeta.colorazulclaro
+  background-color: #75BAF1
+
+.tarjeta.moradaclara
+  background-color: #BE79CA
+
+
+.fa-chevron-right:before
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAABN9JREFUaEPdml1sVEUUx//TAhpLaQxRgjEEg4kGBPRJAo3EaoJ0AzENSCkFa3xQTIxEgyIvaoKxBCoUNeyDBnhSMfFBoEBCy3cCicaImrCkfuAHQfABEGq7lB7/c+/u3Xa9t/feZeZu9SS33XZnzsxvzsfMnRkFgyJdWEh1c/jczecuCB/FR4vgHD+f4yf9/Ma/j6nHsMtU8+pmFMlBjGX9FDvVwN/1gNJ/xxD5i4U7+HxOyA71KK7GqDykaEkgDoBgNTW9HL/zQV0llOBd3II2VQsNGEtigcj3GIPzeIGjt5YAd8RqKXJhucii6zABaTUN2ajVIoPIAUxFBXYSYFpU5TdVTuRbttdAd+uOoicSCF1pGc3+ISFujaLUXBm6m8KLhNkRpnNYENmPKoxCGko1hymy+r3IdlpnJYF6g9oJBMm50he0whSrnYyq3HW1JsJ851fFF0SEBj2IvYSYF7WdRMqJ7EUdUkrR0YvEH6QTrXSn1xLpXNxGRNZzIl0TCsLAXgRRn8XVn2x5WaLqdAYtyBCLyHHcyXA6Q2vUJNuxmK2JXGYamqRm4Uq+5lCQTmwmxEsx1ZaneJGLeSCONfpwNvm5otRxkF4MYLJ6HH9oDQWQLs4XUM+VqrYs9UTaGfirPBAG+GTSddOtKsvSoZIbpVUqMVXNxU+ORaQTzxNia8n6fCpe7qlEzW03TKr01yWyklZJuyBd2Gdy8vvyx2os2jId6xb/gOY5jgtbFNnPVPyEkmOoZpD/SYuMMdHaqV+qkNr4IHqyrpe2N2fQXGsRRiSLGoxVjI9GToAfm4DQOrL9wFPvTcfRzO05lYL25WfsWkbJfMX4eJPWeMMUiNbTe12h8f0HkoMReUsxPrYzPp42CZKHaWifgZPd+UWCTcvIDg1yiCBzTYNofT19Ck9umomvfh7nuVn6mdNY/LB+mzUpcliDnCbIfSbVDtZ1tZfvq5tneDBKCba2mIaRjI6RS7YXiRpmQdtMnPq12mE0DsNFZFlA9G7dBy0ZNM66YMYRHJCEXcs4hDMU2rUSDnajlvDs6Qb7J/TaJWZsXNCi55Li9GsHwrHIpzpGjL9M+U2I9iA0B5fzSSxRrEI4aVCWKjmBcbiGi6YWjd+crcL8DQ+hr7/C8bMtKzJYNtvyorEC460u41sbu82l2MAgzi3jnVD537xYHcFE9ON3Peeazl529XFPdAAT9QZEYfPBQvayC5HLVoM3Hxz3+q9szuVHR+QKRuNe9QgTlU5cg0fNxkuWNauIvM5Nh9a8/qEgbirWW6YTrHXAhGKRC9xnmKTq+TMn/wpuLlnquTjdRRh3IhhpIjLAc5IUz0m481OQoGOFNQR5Z6QxOP0pcqlAi3ix1IXdDKHUyILh4rCOuz4+Enz0puOlBycJc/+IgBH5mi41O+gccfjDUL15l+WtBHDKKaeI7OZFgqbhLhKEzuSyk9vE4/F22Y7iRDby3PBVv3PD0GD3G3xmsyZms22mVsnhBpa/Waal+IgtqF6oRQZXlMO4BzfwCv/3rL0DIR4VAB/RD9r0cUE4sFsiFoiX0Q7wpohyLtXo44iqqI0NW07kGr9P0+ob8qdQcfSWBOIBubeEeL3Ju+bkblxFFtHXmjo4KEwo2JP4NaegfnKttoCdquX34RfPgOP0f96sMCP/AF6J3r6IiOtzAAAAAElFTkSuQmCC)
+
+.fa-chevron-left:before
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAABNtJREFUaEPVWm9oVlUY/51Nt+lmCySHkbpSMhRD6ENRpmRBulEfJFBnUNCHNJXNzDI/9AeMlDLyU/ugNFFxLhrRdFNwM8uBfSr/QYUggklqkJvNbLg9/c59tzvfu3v3nnvfc+5LB+7e9919/pzfff6cc5/nKFgc0oUXKe4pXg/wuh/CS/HSQ3CF36/wm74u8/dJ9SzabKlX+QiS46ggfy0ntYyfNYDSv2MMuUnidl6tBNmunsHfMZizSBMB8QAINlHSm/EnHzVVghJ8hlLsUAugAcYasYDIeZTgD7zBp7eFAO6LpcmYWK6TdCuq0Kjmot+UzRiIHMMcFKGFAOaaCs+LTuQs9S2ju10wkWMEhK60imbfRRBlJkLt0dDdFNYTzJ5cMscEIkdRjnFohFIv5xLk9L5IE62zhoBuR+mJBDLkSt/SCjOdTtJUeMbV6gjmXBhLKBARGvQ4OgjieVM9qdCJdGAxapWiowdGOJBObKM7vZPK5OIqEdnOhXRzTiAM7Jcg6qu48tOll+Vqsc6gIyPLItKNKQyn32iNynQnFlObSA/T0HT1BHqHObOBdOJzgqiPKbYw5AEX84F41vgXl9JfK5I+B7mNQVSr53BVSxgB0sX1Aur1pGILwieyk4Hf4ANhgFcT3QW6VXFBJpRYKa1SjDlqES56FpFOrCaILxLLM2TsuVWMyokDhtSGZCJraJXGDJAuHHG9+DWfmoItLTPRWn8G82f0Gc7ShEyOMhUvUXISkxjkf9IiJSZsSWj2dVehfu9sj7W8dACH3/oZ86ZZAiPSj0pUKMbHCi6AB5JM0IRHW2JtkwaRyStPz/4LLevPomScCbchjZKlivHxAa3xviFLLLIwEM3rzqFs/KitUiy5o4hFPlSMjyY+rVfykzSaOwji8Vk9XnxYB+Gplj0ayHcEssgmkCCIx6p78c2G05hYatkS/qTlhAbyC4FkItHCCAPR2nAGFWWDFqRHiZBfdYzcsLVJDIJ4dNpNtG087RiE9izpsQokk2Yf9jNUukAsu1YQjI6PdFzLQbCHgUkj2JsZ7MttR2IQjOP0e1DHiLOXqSAYvao7WhB3Ot+ihIFxsEVZqeQU7kEfrrvcNO79oQoN+zNL1YSSAXRssrxpLMLk1Lbx2jLvff2Qu228t1NJ6cXqRl8x7i13+WL1PabiDn5n9jIqatvOcMnlsSY6iKm6ADFSfHCYvZJPNAdnsPjgudf/pTg3jE2kF+MxSy1kovI3RUM3Xb5kWbeKyLssOmwblptdacykYl0yrbKu2KZAkWusM0xXNfw7NEYFN99Pali0byOYIpu6rckSGWSfpJZ9ElZ+RkZUW2EzgXxsTblNQQGXirSIH0tdOMR0XGtzDvnLkoOsYa0IkxPdetPxcgs/Eswj+U/AggSRn+hST0b1EcduhuriXT9PJYBLTiGHyCEeJKgb6yBBzpVcWlgmnoyPCtaKE/mUfcO3w/qGOYM97OEzm9Uxm33pcpecrVf+4e9Xgy22KMfIaZG7GeUEHsQANvJ/r7lrCLFVAOymH+zQ7QJTj44FxM9ox3hSRHmHanQ7otxU2Zh0Irqq3UirfzLchYojNxEQH1DmlBCPN/nHnCbFUc4dnj7W1M6HwoSCw6kfc4qaLPdqL3BSC3g/98EzoJv+z5MVdsZ/ZhjCvl8UEikAAAAASUVORK5CYII=)
+
+// tabla 2 tema 1
+
+.tabla-b__header
+  background-color: #E8E8E8 !important
+  border-color: #6E3DC6 !important
+  border-top: 5px solid
+  h4
+    color: black !important
+
+.bordeizquierdoabajo
+  border-bottom: 2px solid !important
+  border-right: 2px solid !important
+  border-color: #E8E8E8 !important
+
+.bordederecho
+  border-left: 2px solid !important
+  border-color: #E8E8E8 !important
+
+.bordeabajo
+  border-bottom: 2px solid !important
+  border-color: #E8E8E8 !important
+
+.bordearribamorado
+  border-color: #6E3DC6 !important
+  border-top: 5px solid
+
+// tarjetas animadas tema 1
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: #BE79CA
+      h3
+        color: black
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #6E3DC6
+    h3
+      color: white
+    
   
-  
-.banner-principal .tarjeta
-  background-position: left 50% !important
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
 
-.banner-principal__row .banner-principal__img
-  width: 400px !important  
+// tab tema 2
 
-.titulo-principal.color-acento-contenido .titulo-principal__numero span
-  color: white !important   
+.tabs-a__tab 
+    background-color:  #6E3DC6
+    color: white
 
-figcaption
-  font-weight: normal
- 
+.tarjeta.color-secundario--borde
+    background-color:  #F2E4F5
+    color: #12263F
+    border: solid 1px  #F2E4F5
+
+// puntos calientes
+
+.img-infografica__item__dot, .img-infografica-b__item__dot
+  width: 125%
+  padding-top: 125%
+
+.img-infografica__item__numero, .img-infografica-b__item__numero
+  left: 65%
+  top: 50%
+
+.img-infografica.color-acento-botones .img-infografica__item__numero
+  color: #6E3DC6
