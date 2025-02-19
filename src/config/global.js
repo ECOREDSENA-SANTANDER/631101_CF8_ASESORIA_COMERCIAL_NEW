@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Postventa',
       referencia:
-        '<i>Las 7 estrategias más sencillas para captar clientes potenciales</i>. (2023, 15 diciembre). Zendesk. https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
+        'Zendesk. (2023). <i>Las 7 estrategias más sencillas para captar clientes potenciales</i>. https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
       tipo: 'Página web',
       link:
         'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
@@ -207,12 +207,12 @@ export default {
     },
     {
       referencia:
-        'Zendesk, (2023). <i>¿Qué es atención al cliente? Guía introductoria con infografía</i>.',
+        'Da Silva, D. (2020).  <i>¿Qué es atención al cliente? Guía introductoria con infografía</i>.',
       link: 'https://www.zendesk.com.mx/blog/que-es-atencion-al-cliente/',
     },
     {
       referencia:
-        'Zendesk, (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>.',
+        'Zendesk, (2023). <i>Las 7 estrategias más sencillas para captar clientes potenciales</i>.',
       link:
         'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
     },
