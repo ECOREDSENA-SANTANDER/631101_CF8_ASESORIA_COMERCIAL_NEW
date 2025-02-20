@@ -20,7 +20,7 @@ export default {
       tema: 'La postventa',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar la apropiación de los contenidos en la temática sobre la postventa.',
+        '<b> Objetivo:</b> Verificar la comprensión de los conceptos fundamentales del servicio postventa en el contexto comercial.',
       barajarPreguntas: true,
       preguntas: [
         {

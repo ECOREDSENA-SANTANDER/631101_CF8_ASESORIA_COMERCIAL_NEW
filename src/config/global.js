@@ -224,7 +224,7 @@ export default {
     },
     {
       referencia:
-        'Pérez Feijoo, H.; Pérez Hernández, Jorge M.; López González, L. y Caballero Bravo, C. (2013). <i>Comunicación y atención al cliente</i>. McGraw Hill Education.',
+        'Pérez Feijoo, H., Pérez Hernández, Jorge M., López González, L. y Caballero Bravo, C. (2013). <i>Comunicación y atención al cliente</i>. McGraw Hill Education.',
       link: '',
     },
     {

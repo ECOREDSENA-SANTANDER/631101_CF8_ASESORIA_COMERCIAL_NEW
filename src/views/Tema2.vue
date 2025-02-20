@@ -24,7 +24,7 @@
                   img(src='@/assets/curso/temas/tema2/tab1-2.png', alt='')
                 .col-8
                   p Puede utilizar cualquier medio, el usado comúnmente es el correo electrónico, donde pueda comunicar como van las incidencias u otros envíos como catálogos, revistas, u otras invitaciones. 
-            .tarjeta.color-secundario--borde.p-4(titulo="Página <i>web</i> y correo electrónico")
+            .tarjeta.color-secundario--borde.p-4(titulo="Página web y correo electrónico")
               .row.align-items-center.justify-content-center
                 .col-auto
                   img(src='@/assets/curso/temas/tema2/tab1-3.png', alt='')
@@ -97,7 +97,7 @@
               p.mb-5 #[b Adiestramiento para el uso del producto:] orientaciones que ofrece la empresa al cliente para su uso eficaz.
               p.mb-5 #[b Manejo de quejas y reclamaciones:] establecer canales de comunicación para que el cliente manifieste a la empresa sobre sus inconformidades.
   
-      p.mb-4.text-center Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
+      p.mb-4 Los aportes que hace Pérez (2013) sobre los tipos de servicios son los siguientes, como se detalla en la tabla 4:
   
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-10.col-md-12.col-sm-12
@@ -127,7 +127,7 @@
                   td.text-center #[b De mantenimiento]
                   td Son los servicios de mantenimiento o de soporte técnico. Este servicio es muy agradecido por los clientes y sirve para fidelizar.
   
-      p.mb-5.text-center Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
+      p.mb-5 Luego de realizarse la venta de los productos y servicios, la empresa puede hacer distintas actividades dirigidas según Pérez (2013) a:
   
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-8.col-md-12.col-sm-12
@@ -137,7 +137,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/fig1.png', alt='Texto que describa la imagen')
             .tarjeta.bggristabla2.p-4(x="69%" y="14%" numero="+")
-              p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea #[em off-line] u o#[em on-line] informarle al cliente la trazabilidad del producto para la entrega.
+              p Luego de haber tomado la decisión de realizar la compra, mientras llega el producto, si toca entregar la mercancía en el domicilio, bien sea #[em off-line] u #[em on-line] informarle al cliente la trazabilidad del producto para la entrega.
             .tarjeta.bggristabla2.p-4(x="87%" y="44%" numero="+")
               p Este es el servicio más conocido por los clientes y adoptado por las empresas, puede incluir reparación hasta el cambio del producto. De ofrecer además la garantía extendida que incluye más tiempo y otros agregados.
             .tarjeta.bggristabla2.p-4(x="68%" y="79%" numero="+")

@@ -288,26 +288,26 @@
                   td.bordeizquierdoabajo Instalación
                   td.bordeizquierdoabajo Visitar tres (3) clientes para instalar equipos.
                   td.bordeizquierdoabajo Nombre
-                  td.bordeizquierdoabajo 6 horas.
+                  td.bordeizquierdoabajo 6 horas
                   td.bordeizquierdoabajo $150.000
-                  td.bordeizquierdoabajo Tiempo de respuesta.
+                  td.bordeizquierdoabajo Tiempo de respuesta
                 tr
                   th.bgblanco.bordederecho 
                     h3 Implantar el servicio de postventa
                   td.bgblanco.bordeizquierdoabajo Mantenimiento
                   td.bgblanco.bordeizquierdoabajo Cambiar repuestos a equipo de cliente.
                   td.bgblanco.bordeizquierdoabajo Nombre
-                  td.bgblanco.bordeizquierdoabajo 2 horas.
+                  td.bgblanco.bordeizquierdoabajo 2 horas
                   td.bgblanco.bordeizquierdoabajo $100.000
-                  td.bgblanco.bordeizquierdoabajo Cumplimiento.
+                  td.bgblanco.bordeizquierdoabajo Cumplimiento
                 tr
                   th.bordederecho.bordeabajo
                   td.bordeizquierdoabajo Reparación
                   td.bordeizquierdoabajo Visitar cliente reparación equipo.
                   td.bordeizquierdoabajo Nombre
-                  td.bordeizquierdoabajo 4 horas.
+                  td.bordeizquierdoabajo 4 horas
                   td.bordeizquierdoabajo $250.000
-                  td.bordeizquierdoabajo Tiempo de respuesta.
+                  td.bordeizquierdoabajo Tiempo de respuesta
   
       p.mb-4 A continuación, se presentan algunos indicadores que se utilizan con frecuencia. La empresa, según la actividad, puede aportar otros indicadores adicionales, los cuales están detallados en la tabla 3.
   
@@ -412,8 +412,8 @@
                         span.mb-0 Averías por una mala operación.
                       li.mb-0 
                         i.fas.fa-check-circle
-                        span.mb-0 Reclamaciones originadas por
-                          p desconocimiento del cliente.
+                        span.mb-0 Reclamaciones originadas por 
+                         p desconocimiento del cliente.
 
 
       .subt.mb-4(data-aos="fade-right")
