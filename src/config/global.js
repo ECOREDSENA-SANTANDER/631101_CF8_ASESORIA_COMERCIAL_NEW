@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Postventa',
       referencia:
-        'Zendesk. (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>. https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
+        'Zendesk. (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>.',
       tipo: 'Página web',
       link:
         'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
@@ -138,7 +138,7 @@ export default {
     {
       tema: 'Postventa',
       referencia:
-        'Sales Force Latinoamérica. (2018). <i>Postventa: qué es y cómo realizarla</i>. https://www.salesforce.com/mx/blog/2018/3/Postventa-que-es-y-como-hacer.html',
+        'Sales Force Latinoamérica. (2018). <i>Postventa: qué es y cómo realizarla</i>.',
       tipo: 'Página web',
       link:
         'https://www.salesforce.com/mx/blog/2018/3/Postventa-que-es-y-como-hacer.html',
@@ -147,21 +147,21 @@ export default {
     {
       tema: 'Elementos de la postventa',
       referencia:
-        'Ramírez, A. (2018). <i>¿Qué elementos componen la posventa?</i>. https://www.informabtl.com/que-elementos-componen-la-posventa/ ',
+        'Ramírez, A. (2018). <i>¿Qué elementos componen la posventa?</i>.',
       tipo: 'Página web',
       link: 'https://www.informabtl.com/que-elementos-componen-la-posventa/ ',
     },
     {
       tema: 'Proceso de la calidad del servicio postventa',
       referencia:
-        'Da Silva, D. (2020). <i>¿Qué es el seguimiento postventa? fases y tips para el mantenimiento de un cliente satisfecho</i>. https://www.zendesk.com.mx/blog/seguimiento-postventa/ ',
+        'Da Silva, D. (2020). <i>¿Qué es el seguimiento postventa? fases y tips para el mantenimiento de un cliente satisfecho</i>.',
       tipo: 'Página web',
       link: 'https://www.zendesk.com.mx/blog/seguimiento-postventa/',
     },
     {
       tema: 'Tipos de servicios postventas',
       referencia:
-        '<i>Servicio posventa: qué es, cómo implementarlo con éxito y ejemplos</i>. (2024, 17 junio). https://blog.hubspot.es/service/servicio-post-venta',
+        '<i>Servicio posventa: qué es, cómo implementarlo con éxito y ejemplos</i>. (2024, 17 junio).',
       tipo: 'Página web',
       link: 'https://blog.hubspot.es/service/servicio-post-venta',
     },
