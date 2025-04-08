@@ -104,7 +104,7 @@
                       span.mb-0 Asistir a encuentros de negocios: asistir a eventos, ferias y exposiciones a través de Cámaras de Comercio, vinculaciones a gremios.
                     li 
                       span e. 
-                      span.mb-0 Buscar referencias: se refiere a personas o empresas que pertenecen a un mismo tipo o clase de organización o asociación. Con la unión a gremios o CC, incluso con clientes que hayan conocido y probado el producto solicitar recomendaciones.
+                      span.mb-0 Las referencias comerciales son recomendaciones de clientes u organizaciones del mismo sector que validan la calidad de un negocio, y pueden obtenerse a través de gremios, cámaras de comercio o clientes satisfechos.
                     li 
                       span f. 
                       span.mb-0 Crear un guion de 30 segundos: escribir lo que se va a decir o sustentar.  Definir la comunicación que se le quiere dar a los clientes, medios de comunicación e incluso posibles inversionistas.

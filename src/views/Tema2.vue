@@ -115,14 +115,14 @@
                   th.bgmorado100.text-white Cliente
               tbody
                 tr
-                  td.bggristabla2.text-center #[b Promocionales]
+                  td.bggristabla2.text-center.bordederechoblanco #[b Promocionales]
                   td.bggristabla2 Promover descuentos especiales a los clientes, tarjetas de puntos para realizar compras, llamadas de invitación a promociones y concursos.
                 tr
                   td.text-center #[b Psicológicos] 
                   td Servicios ligados a la motivación del cliente, felicitaciones en el cumpleaños, llamar al cliente para preguntarle sobre la satisfacción de su compra.
                 tr
-                  td.bggristabla2.text-center #[b De seguridad]
-                  td.bggristabla2 Dar garantías, devoluciones del dinero sino está satisfecho por su compra.
+                  td.bggristabla2.text-center.bordederechoblanco #[b De seguridad]
+                  td.bggristabla2 Dar garantías, devoluciones del dinero si no está satisfecho por su compra.
                 tr
                   td.text-center #[b De mantenimiento]
                   td Son los servicios de mantenimiento o de soporte técnico. Este servicio es muy agradecido por los clientes y sirve para fidelizar.
