@@ -130,7 +130,7 @@ export default {
     {
       tema: 'Postventa',
       referencia:
-        'Zendesk. (2023). <i>Las 7 estrategias más sencillas para captar clientes potenciales</i>. https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
+        'Zendesk. (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>. https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
       tipo: 'Página web',
       link:
         'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
@@ -201,7 +201,7 @@ export default {
     },
     {
       referencia:
-        'Cuartin, A. (2020). <i>¿Qué son los indicadores de medición de una empresa?</i>',
+        'Cuartin, A. (2020). <i>¿Qué son los indicadores de medición?</i>',
       link:
         'https://blog.lemontech.com/que-son-indicadores-y-cuantos-tipos-existen-ejemplos/',
     },
@@ -212,13 +212,13 @@ export default {
     },
     {
       referencia:
-        'Zendesk, (2023). <i>Las 7 estrategias más sencillas para captar clientes potenciales</i>.',
+        'Zendesk, (2023). <i>¿Cómo captar clientes potenciales?: las 7 estrategias más sencillas</i>.',
       link:
         'https://www.zendesk.com.mx/blog/estrategias-captar-clientes-potenciales/',
     },
     {
       referencia:
-        'El viaje del cliente (2021). <i>¿Qué es el Servicio al Cliente? Definición y características</i>.',
+        'El viaje del cliente (2021). <i>¿Qué es la atención al Cliente? Definición y características</i>.',
       link:
         'https://elviajedelcliente.com/academia/servicio-al-cliente-customer-service/',
     },
@@ -234,7 +234,7 @@ export default {
     },
     {
       referencia:
-        'Ramírez, Al. (2018). <i>¿Qué elementos componen la postventa?</i>',
+        'Ramírez, Al. (2018). <i>¿Qué elementos componen la posventa?</i>',
       link: 'https://www.informabtl.com/que-elementos-componen-la-posventa/',
     },
   ],
