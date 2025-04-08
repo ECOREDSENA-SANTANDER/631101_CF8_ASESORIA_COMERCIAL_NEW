@@ -21,6 +21,8 @@ export default {
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> Verificar la comprensión de los conceptos fundamentales del servicio postventa en el contexto comercial.',
+      titulo_aprobado: '¡BUEN TRABAJO!',
+      titulo_reprobado: 'VUELVA A INTENTARLO',
       barajarPreguntas: true,
       preguntas: [
         {
