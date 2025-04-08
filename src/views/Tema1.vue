@@ -216,7 +216,7 @@
               .col-10
                 h3.bgblanco.text-center.p-1(data-aos="fade-right") Las devoluciones
             .row.justify-content-center.p-4
-              p.text-center(data-aos="fade-right") Debe ir unidad a la garantía que ofrece el producto o a las políticas de la empresa al respecto. 
+              p.text-center(data-aos="fade-right") Debe ir unida a la garantía que ofrece el producto o a las políticas de la empresa al respecto. 
           .tarjeta.colorazulclaro.p-4
             .row.justify-content-center.p-4
               .col-7
@@ -323,9 +323,9 @@
               caption Nota. Adaptado de Pérez (2013).
               thead.bordearribamorado
                 tr
-                  th.bggristabla2
+                  th.bggristabla2(style="width:30%;")
                     h3.text-center Tipo de servicio
-                  th.bggristabla2
+                  th.bggristabla2(style="width:70%;")
                     h3.text-center Indicadores
               tbody
                 tr
@@ -370,7 +370,7 @@
                       li.mb-0 
                         i.fas.fa-check-circle
                         span.mb-0 Porcentaje de casos solucionados.
-                      li.mb-0 
+                      li.d-flex.mb-0 
                         i.fas.fa-check-circle
                         span.mb-0 Porcentaje de averías técnicas solucionadas.
                       li.mb-0 
@@ -465,7 +465,7 @@
               span.mb-2.mt-3 En la planificación, es fundamental seguir de cerca los indicadores propuestos. Es necesario verificar que los resultados coincidan con los indicadores establecidos y, en función de estos resultados, tomar las acciones adecuadas para implementar mejoras.
             li.mb-2.surrayar
               i.fas.fa-check-circle.mt-3
-              span.mb-2.mt-3 Registrar el procedimiento en una lista de chequeo que lo pueda comprar a como se registra el protocolo. 
+              span.mb-2.mt-3 Registrar el procedimiento en una lista de chequeo que lo pueda comprar o como se registra el protocolo. 
             li.mb-2.surrayar
               i.fas.fa-check-circle.mt-3
               span.mb-2.mt-3 Registrar medidas tomadas.
@@ -488,7 +488,7 @@
         .col-sm-12.col-md-12.col-lg-6.bgazulclaro.mb-5(data-aos="fade-left")
           .row.align-items-center.justify-content-center.mt-5.mb-5
             .col-sm-12.col-md-12.col-lg-9.mb-5.mt-5
-              h3.mt-4.mb-4 Un ejemplo de una situación de mejora puede ser que el 10% de los clientes, se queje que los mantenimientos no se están cumpliendo, en este caso debe identificar que ocasiona esa situación y darle solución.
+              h3.mt-4.mb-4 Un ejemplo de una situación de mejora puede ser que el 10 % de los clientes, se queje que los mantenimientos no se están cumpliendo, en este caso debe identificar que ocasiona esa situación y darle solución.
   
       separador
       #t_1_4.titulo-segundo.mb-4
@@ -567,7 +567,7 @@
                 .col-12
                   .bgmoradomedio.p-1 
                     h3.text-center.mb-0 Reparación en el taller
-              p.text-center.p-1 El cliente lleva el producto a reparación al sitio donde compró o donde se le indique para el cumplimiento de la garantía o si no la tiene pagar por el servicio. 
+              p.text-center.p-1 El cliente lleva el producto a reparación al sitio donde compró o donde se le indique para el cumplimiento de la garantía o si no la tiene, pagar por el servicio. 
   
       .subt.mb-4(data-aos="fade-right")
         .d-flex.align-items-center.mb-1
@@ -614,7 +614,7 @@
                 h3.bgblanco.text-center.p-2(data-aos="fade-right") Servicio de Asistencia Técnica
             .row.justify-content-center.p-2
               p.text-center(data-aos="fade-right") El Servicio de Asistencia Técnica reconoce fallos amparados en la garantía y recomienda un cambio de computador.
-              p.text-center(data-aos="fade-right") Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el #[em PC] en el punto de venta.
+              p.text-center(data-aos="fade-right") Se registra el dictamen de la incidencia y se pasa a recoger el computador al sitio donde se encuentra el cliente o recibe el PC en el punto de venta.
           .tarjeta.moradaclara.p-4
             .row.justify-content-center.p-4
               .col-7
@@ -623,8 +623,8 @@
               .col-10
                 h3.bgblanco.text-center.p-2(data-aos="fade-right") Gestión final
             .row.justify-content-center.p-2
-              p.text-center(data-aos="fade-right") Se realiza el cambio del #[em PC] averiado por uno nuevo.
-              p.text-center(data-aos="fade-right") Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo #[em PC].
+              p.text-center(data-aos="fade-right") Se realiza el cambio del PC averiado por uno nuevo.
+              p.text-center(data-aos="fade-right") Se llama posteriormente a preguntar cómo se siente con el servicio prestado y su nuevo PC.
   
   
   </template>
