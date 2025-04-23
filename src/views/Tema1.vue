@@ -465,7 +465,7 @@
               span.mb-2.mt-3 En la planificación, es fundamental seguir de cerca los indicadores propuestos. Es necesario verificar que los resultados coincidan con los indicadores establecidos y, en función de estos resultados, tomar las acciones adecuadas para implementar mejoras.
             li.mb-2.surrayar
               i.fas.fa-check-circle.mt-3
-              span.mb-2.mt-3 Registrar el procedimiento en una lista de chequeo que lo pueda comprar o como se registra el protocolo. 
+              span.mb-2.mt-3 Registrar cada procedimiento en una lista de verificación, que permita compararlo con lo establecido en el protocolo correspondiente. 
             li.mb-2.surrayar
               i.fas.fa-check-circle.mt-3
               span.mb-2.mt-3 Registrar medidas tomadas.
