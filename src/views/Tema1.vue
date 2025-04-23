@@ -43,7 +43,7 @@
               span.mb-2.mt-3 Los servicios de reparación y mantenimiento (p. 327).
             li.mb-0.surrayar
 
-      p.mt-5.mb-5 Según Pérez (2013), las ventajas e inconvenientes del servicio postventa son las siguientes:   
+      p.mt-4.mb-5 Según Pérez (2013), las ventajas e inconvenientes del servicio postventa son las siguientes:   
   
       .row.justify-content-center.align-items-center.mb-2
         .col-12.col-md-12.col-lg-10
@@ -473,7 +473,6 @@
               i.fas.fa-check-circle.mt-3
               span.mb-2.mt-3 Corregir lo que no esté según los procedimientos de la empresa.
             li.mb-4.surrayar
-
   
       .subt.mb-4(data-aos="fade-right")
         .d-flex.align-items-center.mb-1
